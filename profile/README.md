@@ -1,7 +1,5 @@
 ## Hi there GHOSTΩ Fans! 👋
 
-<!--
-
 **What is GHOSTΩ ?**
 Ghost is a mobile application designed to create a marketplace where users can buy and sell game accounts. 
 It enables sellers to list their upgraded or unused gaming accounts, specifying details like linked platforms (e.g., email, iCloud, phone number) and pricing. 
@@ -69,5 +67,3 @@ The app includes features like:
 - Focuses specifically on game account trading, creating a dedicated, tailored solution for gamers.
 
 /* Ghost not only simplifies the game account trading process but also builds a secure, transparent, and engaging ecosystem for users. */
-
--->
