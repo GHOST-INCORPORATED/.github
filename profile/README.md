@@ -31,7 +31,7 @@ The app includes features like:
 5. Anyone Interested in a Secure Marketplace:
 - Those looking for transparency, fraud prevention, and fairness in the process of buying and selling digital gaming assets.
 
-/* Ghost bridges the gap between casual and professional gamers, creating a secure and fun ecosystem for trading game accounts. */
+*Ghost bridges the gap between casual and professional gamers, creating a secure and fun ecosystem for trading game accounts.*
 
 **What problem does GHOST solves ?**
 
@@ -66,4 +66,4 @@ The app includes features like:
 10. Absence of a Niche Market for Game Accounts:
 - Focuses specifically on game account trading, creating a dedicated, tailored solution for gamers.
 
-/* Ghost not only simplifies the game account trading process but also builds a secure, transparent, and engaging ecosystem for users. */
+*Ghost not only simplifies the game account trading process but also builds a secure, transparent, and engaging ecosystem for users.*
